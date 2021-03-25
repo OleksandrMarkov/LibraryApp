@@ -1,0 +1,8 @@
+D:\KNT\2\2.2\МПП\rgz2\Library_System_BL\Library_System_BL\obj\Debug\Library_System_BL.csprojResolveAssemblyReference.cache
+D:\KNT\2\2.2\МПП\rgz2\Library_System_BL\Library_System_BL\bin\Debug\Library_System_BL.dll
+D:\KNT\2\2.2\МПП\rgz2\Library_System_BL\Library_System_BL\bin\Debug\Library_System_BL.pdb
+D:\KNT\2\2.2\МПП\rgz2\Library_System_BL\Library_System_BL\obj\Debug\Library_System_BL.dll
+D:\KNT\2\2.2\МПП\rgz2\Library_System_BL\Library_System_BL\obj\Debug\Library_System_BL.pdb
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System_BL\Library_System_BL\obj\Debug\Library_System_BL.csprojResolveAssemblyReference.cache
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System_BL\Library_System_BL\obj\Debug\Library_System_BL.dll
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System_BL\Library_System_BL\obj\Debug\Library_System_BL.pdb

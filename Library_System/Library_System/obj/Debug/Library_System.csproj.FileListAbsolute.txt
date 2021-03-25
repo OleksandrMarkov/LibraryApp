@@ -1,0 +1,27 @@
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.csprojResolveAssemblyReference.cache
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.LoginForm.resources
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.csproj.GenerateResource.Cache
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\bin\Debug\Library_System.exe.config
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\bin\Debug\Library_System.exe
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\bin\Debug\Library_System.pdb
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.exe
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.pdb
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\bin\Debug\Library_System_BL.dll
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\bin\Debug\Library_System_BL.pdb
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.LibrarianMenu.resources
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.Catalog.resources
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.Debtors.resources
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.FineAssigned.resources
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.FineNotAssignedYet.resources
+D:\KNT\2\2.2\МПП\rgz2\Library_System\Library_System\obj\Debug\Library_System.Orders.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.csprojResolveAssemblyReference.cache
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.Catalog.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.Debtors.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.FineAssigned.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.FineNotAssignedYet.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.LibrarianMenu.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.LoginForm.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.Orders.resources
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.csproj.GenerateResource.Cache
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.exe
+E:\KNT\2\2.2\МПП\РГЗ №2 Марков КНТ-117\Library_System\Library_System\obj\Debug\Library_System.pdb
